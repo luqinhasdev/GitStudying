@@ -17,3 +17,11 @@
 body{
     background-color: #7C444F;
 }
+
+h3, h4, h5{
+    text-align: center;
+    color: #E16A54;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 200px;
+}
